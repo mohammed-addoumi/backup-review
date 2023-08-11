@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: backend-application
+  jpa:
+    show-sql: true
+
+server:
+  port: 8080
+
